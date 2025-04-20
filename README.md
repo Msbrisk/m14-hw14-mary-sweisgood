@@ -49,3 +49,12 @@ Please submit both a link to your repository and a link to the live site. Also p
 
 * [Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 * [Bootstrap Grid System on W3 Schools](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)
+
+* ##  Bootstrap Components Used
+* Bootstrap Components Used:
+
+    Navbar: For mobile-responsive top navigation
+
+    Card: Used for "About Me" and "Interests" sections.
+
+    Button: Included in the "Coding" interest card.
