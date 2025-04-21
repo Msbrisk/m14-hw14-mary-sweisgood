@@ -57,4 +57,4 @@ Please submit both a link to your repository and a link to the live site. Also p
 
     Card: Used for "About Me" and "Interests" sections.
 
-    Button: Included in the "Coding" interest card.
+    Button: Included in the interest card.
